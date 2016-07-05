@@ -13,6 +13,8 @@ namespace WindowsFormsApplication9
         public Form1()
         {
             InitializeComponent();
+
+            int aaa;
         }
     }
 }
