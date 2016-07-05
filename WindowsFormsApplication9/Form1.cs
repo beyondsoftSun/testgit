@@ -14,7 +14,8 @@ namespace WindowsFormsApplication9
         {
             InitializeComponent();
 
-            int aaa;
+
+            int bbb;
         }
     }
 }
