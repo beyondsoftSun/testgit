@@ -4,15 +4,7 @@ Thumbs.db
 *.pdb
 *.user
 *.suo
-*.sln.docstates
-*.tlb
-*.tlh
-*.bak
-*.cache
-*.ilk
-*.log
-[Bb]in
-[Dd]ebug*/
+*.sln.docstag*/
 *.lib
 *.sbr
 obj/
